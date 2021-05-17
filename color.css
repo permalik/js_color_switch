@@ -1,0 +1,43 @@
+.switch_activator {
+  background-color: rgb(76, 100, 123);
+  box-shadow: 0px 1px 2px 0px rgb(194, 194, 194), 0px 2px 6px 2px rgb(194, 194, 194);
+}
+
+.activator_container header {
+  color: lightgreen;
+}
+
+.activator_container p {
+  color: aliceblue;
+}
+
+.answer_input,
+.answer_button {
+  box-shadow: 0px 1px 2px 0px rgb(40, 66, 90), 0px 2px 6px 2px rgb(40, 66, 90);
+}
+
+.answer_button {
+  background-color: coral;
+}
+
+.answer_button:hover {
+  color: aliceblue;
+  background-color: rgb(250, 92, 34);
+  position: relative;
+  top: 0.1rem;
+  left: 0.1rem;
+}
+
+.button_smile {
+  color: aliceblue;
+}
+
+/*
+*
+* red switch
+*
+*/
+.red_button_switch {
+  background-color: red;
+  box-shadow: 0px 1px 2px 0px rgb(194, 194, 194), 0px 2px 6px 2px rgb(194, 194, 194);
+}

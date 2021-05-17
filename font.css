@@ -1,0 +1,21 @@
+:root {
+  font-size: 10px;
+}
+
+.activator_container header {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.activator_container p {
+  color: aliceblue;
+}
+
+.math_question {
+  font-size: 2rem;
+}
+
+.button_smile {
+  font-size: 2rem;
+  font-weight: 900;
+}
