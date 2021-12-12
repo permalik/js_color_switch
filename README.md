@@ -1,1 +1,3 @@
-js color switcher is a math game that expects correct answers from a user. In return, buttons apear for background color shifts.
+js_color_switch is an interactive color switch leveraged with a simple math quiz
+
+Available here: https://jscolorswitch.netlify.app/
